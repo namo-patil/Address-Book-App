@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    height: 100;
+}
+
+.header {
+    padding: 15px 0;
+    background-color: lightcoral;
+}
+
+.logo-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 0px solid black;
+    width: 70%;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 0px solid black;
+}
+
+.logo-content-img { border: solid 0px #42515f;}
+
+/* .address-text {
+    font: normal normal bold 20px/25px Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0px;
+    color: darkolivegreen;
+    text-transform: capitalize;
+} */
+
+/* .address_Book {color: darkslategray; } */
+
+* { box-sizing: border-box; }
+
+/* .form-head {
+	font: normal normal bold 25px/38px Arial;
+	letter-spacing: 0px;
+	color: darkblue;
+	text-transform: capitalize;
+	opacity: 1;
+	padding-bottom: 20px;
+	
+} */
